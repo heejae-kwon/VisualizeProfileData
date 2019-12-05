@@ -1,0 +1,37 @@
+{
+	"Functions" : 
+	[
+		{
+			"name" : "d::GetNeighbors",
+			"percentage" : 52.218934911242613
+		},
+		{
+			"name" : "d::Update",
+			"percentage" : 26.026801253045601
+		},
+		{
+			"name" : "DebugMute",
+			"percentage" : 11.105551688130873
+		},
+		{
+			"name" : "d::SqrtDist",
+			"percentage" : 3.4632788026453185
+		},
+		{
+			"name" : "d::UpdateGrid",
+			"percentage" : 1.220414201183432
+		},
+		{
+			"name" : "ameRender",
+			"percentage" : 0.97241559345631745
+		},
+		{
+			"name" : "ptBreak",
+			"percentage" : 0.81143404107205019
+		},
+		{
+			"name" : "iDdDDIPresent",
+			"percentage" : 0.55908458057779331
+		}
+	]
+}
